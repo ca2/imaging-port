@@ -1,0 +1,3 @@
+[submodule "freeimage"]
+	path = freeimage
+	url = ../../cpp-port/freeimage
