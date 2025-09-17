@@ -25,3 +25,39 @@
 [submodule "webp"]
 	path = webp
 	url = ../../cpp-port/webp
+[submodule "port_freeimage"]
+	path = port_freeimage
+	url = ../../cpp-port/port_freeimage
+	branch = main
+[submodule "port_jpeg"]
+	path = port_jpeg
+	url = ../../cpp-port/port_jpeg
+	branch = main
+[submodule "port_jxr"]
+	path = port_jxr
+	url = ../../cpp-port/port_jxr
+	branch = main
+[submodule "port_openexr"]
+	path = port_openexr
+	url = ../../cpp-port/port_openexr
+	branch = main
+[submodule "port_openjpeg"]
+	path = port_openjpeg
+	url = ../../cpp-port/port_openjpeg
+	branch = main
+[submodule "port_png"]
+	path = port_png
+	url = ../../cpp-port/port_png
+	branch = main
+[submodule "port_rawlite"]
+	path = port_rawlite
+	url = ../../cpp-port/port_rawlite
+	branch = main
+[submodule "port_tiff4"]
+	path = port_tiff4
+	url = ../../cpp-port/port_tiff4
+	branch = main
+[submodule "port_webp"]
+	path = port_webp
+	url = ../../cpp-port/port_webp
+	branch = main
